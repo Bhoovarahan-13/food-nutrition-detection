@@ -1,0 +1,21 @@
+image,true_items,true_servings,kcal,protein_g,carbs_g,fat_g
+images1.jpg,quinoa;cherry tomatoes;cucumber;red cabbage;chickpeas;sweet potato;steamed broccoli;avocado;pomegranate seeds,1;1;1;1;1;1;1;1;1,742.0,26.8,126.9,18.6
+images2.jpg,quinoa;steamed broccoli;cherry tomatoes;avocado;corn;chickpeas;baked potato,1;1;1;1;1;1;1,851.0,30.8,150.9,19.6
+images3.jpg,quinoa;avocado;sweet potato;red cabbage;kale;chickpeas;beetroot,1;1;1;1;1;1;1,699.0,25.5,117.1,17.8
+images4.jpg,chickpeas;kale;beetroot;carrot sticks;radish;avocado;pear;quinoa,1;1;1;1;1;1;1;1,733.0,24.1,128.2,18.1
+images5.jpg,chickpeas;cucumber;carrot sticks;brown rice;red cabbage;peanuts,1;1;1;1;1;1,607.0,22.5,94.8,18.5
+images6.jpg,gnocchi;zucchini;cherry tomatoes,1;1;1,296.0,8.7,59.3,2.7
+images7.jpg,white rice;sambar;banana;papad;mixed vegetable curry,1;1;1;1;1,535.0,15.5,101.3,8.8
+images8.jpg,avocado;cherry tomatoes;chickpeas;sweet potato;red cabbage;radish;lettuce;bell pepper,1;1;1;1;1;1;1;1,464.0,15.9,74.4,14.2
+images9.jpg,white rice;dal;fish curry;mixed vegetable curry;greek yogurt;cucumber;cherry tomatoes,1;1;1;1;1;1;1,835.0,66.9,106.5,17.7
+images10.jpg,tofu;chickpeas;kale;avocado;brown rice,1;1;1;1;1,593.0,26.7,82.9,20.5
+images11.jpg,chapati;dal;white rice;mixed vegetable curry,1;1;1;1,592.8,25.1,103.7,8.8
+images12.jpg,quinoa;avocado;cucumber;cherry tomatoes;black beans;red cabbage;bell pepper;lettuce,1;1;1;1;1;1;1;1,566.0,22.2,89.5,16.1
+images13.jpg,chicken breast;chickpeas;cherry tomatoes;cucumber;olives;cauliflower,1;1;1;1;1;1,415.0,46.5,38.7,9.2
+images14.jpg,coffee;oatmeal;raspberries;orange;hard-boiled egg;carrot sticks;cucumber;cherry tomatoes;quinoa;chicken breast;sweet potato;asparagus,1;1;1;2;1;1;1;1;1;1;1;1,1044.0,68.5,158.7,18.2
+images15.jpg,chicken breast;carrot sticks;steamed broccoli;baked potato;green peas,1;1;1;1;1,514.0,48.3,70.9,5.3
+images16.jpg,white rice;dal;green peas;chapati;mixed vegetable curry,1;1;1;1;1,654.8,29.2,115.1,9.0
+images17.jpg,quinoa;chicken breast;steamed broccoli;cauliflower;bell pepper;zucchini;carrot sticks;lettuce,1;1;1;1;1;1;1;1,599.0,53.1,78.8,9.6
+images18.jpg,carrot sticks;avocado;kale;brown rice;tofu,1;1;1;1;1,510.0,20.6,72.7,18.7
+images19.jpg,white rice;sambar;mixed vegetable curry;idli,1;1;1;1,442.0,13.3,79.2,7.6
+images20.jpg,salmon;quinoa;green beans;cherry tomatoes;olives;feta cheese,1;1;1;1;1;1,610.0,40.3,54.3,26.4

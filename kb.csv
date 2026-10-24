@@ -1,0 +1,134 @@
+name,serving,category,kcal,protein_g,carbs_g,fat_g,fibre_g,sugar_g,sodium_mg,cholesterol_mg,aliases
+scrambled eggs,2 large,Protein/Dairy,180.0,12.0,2.0,14.0,0.0,1.0,180.0,370.0,scrambled eggs;omelette;omelet;fried egg
+whole wheat toast,1 slice,Grain,80.0,4.0,14.0,1.0,2.0,2.0,140.0,0.0,whole wheat toast;toast;bread
+coffee,black,Beverage,5.0,0.3,0.0,0.1,0.0,0.0,5.0,0.0,coffee
+banana,1 serving,Fruit,105.0,1.3,27.0,0.4,3.1,14.0,1.0,0.0,banana
+grilled chicken salad,1 serving,Meal/Protein,350.0,30.0,10.0,20.0,5.0,4.0,400.0,80.0,grilled chicken salad;chicken salad
+apple,1 serving,Fruit,95.0,0.5,25.0,0.3,4.4,19.0,2.0,0.0,apple
+salmon,4oz grilled,Protein/Fish,230.0,25.0,0.0,14.0,0.0,0.0,60.0,60.0,salmon;fish
+quinoa,1 cup cooked,Grain,222.0,8.0,39.0,3.6,5.0,1.0,13.0,0.0,quinoa
+steamed broccoli,1 cup,Vegetable,55.0,3.7,11.2,0.6,5.1,2.0,40.0,0.0,steamed broccoli
+greek yogurt,plain 1 cup,Dairy,150.0,25.0,8.0,3.0,0.0,7.0,85.0,10.0,greek yogurt;curd;yogurt;yoghurt
+oatmeal,1 cup cooked,Grain,160.0,6.0,28.0,3.0,4.0,1.0,2.0,0.0,oatmeal
+blueberries,1/2 cup,Fruit,42.0,0.5,11.0,0.2,1.8,7.0,1.0,0.0,blueberries
+almonds,1 oz,Nut,164.0,6.0,6.0,14.0,3.5,1.0,1.0,0.0,almonds
+turkey sandwich,on wheat,Meal/Processed,340.0,22.0,34.0,12.0,5.0,6.0,850.0,50.0,turkey sandwich
+carrot sticks,1 cup,Vegetable,52.0,1.2,12.3,0.3,3.6,6.0,88.0,0.0,carrot sticks
+spaghetti bolognese,1 serving,Meal/Pasta,460.0,20.0,55.0,18.0,6.0,10.0,700.0,50.0,spaghetti bolognese;pasta;spaghetti
+side salad,light dressing,Vegetable,70.0,2.0,8.0,4.0,3.0,3.0,150.0,0.0,side salad;salad;green salad;vegetable salad;fresh vegetable salad;vegetables
+protein shake,Whey,Supplement,120.0,24.0,3.0,1.0,1.0,2.0,160.0,5.0,protein shake
+cereal,Frosted Flakes 1 cup,Grain/Processed,130.0,2.0,31.0,0.0,1.0,11.0,190.0,0.0,cereal
+milk,"2%, 1 cup",Dairy,122.0,8.0,12.0,5.0,0.0,12.0,100.0,0.0,milk;glass of milk
+lentil soup,1 can,Meal/Legume,230.0,15.0,35.0,3.0,12.0,6.0,650.0,0.0,lentil soup
+white rice,1 cup cooked,Grain,204.0,4.2,44.5,0.4,0.6,0.1,2.0,0.0,white rice;rice;cooked rice;steamed rice;plain rice
+tofu stir-fry,1 serving,Meal/Vegetarian,400.0,18.0,30.0,22.0,7.0,9.0,500.0,0.0,tofu stir-fry
+orange,1 serving,Fruit,62.0,1.2,15.4,0.2,3.1,12.0,0.0,0.0,orange
+bagel,plain,Grain,270.0,11.0,55.0,1.5,2.0,5.0,430.0,0.0,bagel
+cream cheese,2 tbsp,Dairy,100.0,2.0,2.0,10.0,0.0,1.0,90.0,30.0,cream cheese
+tuna salad,1/2 cup,Meal/Fish,190.0,19.0,2.0,12.0,1.0,1.0,400.0,30.0,tuna salad
+crackers,5 whole wheat,Grain/Processed,90.0,2.0,14.0,3.0,2.0,0.0,180.0,0.0,crackers
+beef steak,6oz sirloin,Protein/Meat,270.0,42.0,0.0,10.0,0.0,0.0,90.0,115.0,beef steak
+baked potato,medium,Vegetable,160.0,4.3,36.0,0.2,3.8,1.0,17.0,0.0,baked potato;potato;boiled potato;potatoes
+ice cream,1/2 cup vanilla,Dairy/Dessert,145.0,2.5,17.0,7.5,0.5,16.0,55.0,30.0,ice cream;icecream
+pizza,1 slice pepperoni,Meal/Processed,290.0,12.0,34.0,12.0,2.0,4.0,720.0,35.0,pizza;pizza slice
+avocado toast,1 slice,Meal/Vegetarian,260.0,7.0,28.0,15.0,10.0,1.0,350.0,0.0,avocado toast
+hard-boiled egg,1 large,Protein,78.0,6.3,0.6,5.3,0.0,0.5,62.0,187.0,hard-boiled egg;boiled egg;egg;eggs;hard boiled egg
+chicken wrap,with tortilla,Meal/Processed,410.0,25.0,38.0,17.0,5.0,3.0,780.0,60.0,chicken wrap
+grapes,1 cup,Fruit,104.0,1.1,27.0,0.2,1.4,23.0,3.0,0.0,grapes
+cottage cheese,1/2 cup,Dairy,90.0,12.0,5.0,3.0,0.0,4.0,400.0,10.0,cottage cheese
+burger,cheeseburger,Meal/Processed,550.0,30.0,40.0,30.0,3.0,7.0,1100.0,90.0,burger;hamburger;cheeseburger
+french fries,medium,Vegetable/Processed,340.0,4.0,44.0,17.0,4.0,0.3,230.0,0.0,french fries;fries;chips
+protein bar,1 serving,Supplement/Processed,210.0,20.0,22.0,7.0,6.0,1.0,180.0,5.0,protein bar
+black beans,1/2 cup,Legume,114.0,7.6,20.4,0.5,7.5,0.3,1.0,0.0,black beans
+salsa,1/4 cup,Vegetable,20.0,0.8,4.5,0.1,1.0,3.0,250.0,0.0,salsa
+chicken noodle soup,1 can,Meal/Processed,150.0,7.0,18.0,5.0,2.0,2.0,890.0,15.0,chicken noodle soup
+peanut butter,2 tbsp,Nut,190.0,7.0,8.0,16.0,2.0,3.0,140.0,0.0,peanut butter
+celery sticks,1 cup,Vegetable,14.0,0.6,3.0,0.2,1.4,1.2,77.0,0.0,celery sticks
+cod,4oz baked,Protein/Fish,95.0,20.0,0.0,0.8,0.0,0.0,95.0,55.0,cod;fish
+green beans,1 cup,Vegetable,31.0,1.8,7.0,0.2,2.7,3.3,6.0,0.0,green beans
+chocolate chip cookie,1 large,Dessert,220.0,2.5,30.0,11.0,1.5,19.0,160.0,20.0,chocolate chip cookie
+tea,"Green, 1 cup",Beverage,2.0,0.5,0.0,0.0,0.0,0.0,2.0,0.0,tea;tea;milk tea
+shrimp,3oz steamed,Protein/Fish,84.0,20.0,0.2,0.2,0.0,0.0,100.0,161.0,shrimp
+pancakes,2 medium,Grain,180.0,5.0,30.0,5.0,1.0,6.0,450.0,25.0,pancakes
+maple syrup,2 tbsp,Condiment,104.0,0.0,27.0,0.0,0.0,24.0,2.0,0.0,maple syrup
+sausage link,1 cooked,Protein/Meat,85.0,5.0,1.0,7.0,0.0,0.5,300.0,20.0,sausage link
+smoothie,Fruit & Yogurt,Beverage/Meal,280.0,12.0,55.0,3.0,7.0,40.0,70.0,5.0,smoothie
+tofu,4oz firm,Protein/Vegetarian,90.0,10.0,3.0,5.0,2.0,1.0,10.0,0.0,tofu
+brown rice,1 cup cooked,Grain,215.0,5.0,45.0,1.8,3.5,0.4,10.0,0.0,brown rice
+bell pepper,1 medium red,Vegetable,31.0,1.2,6.0,0.3,2.1,4.2,4.0,0.0,bell pepper
+hummus,2 tbsp,Legume,70.0,2.0,4.0,5.0,2.0,0.0,130.0,0.0,hummus
+pita bread,1 whole wheat,Grain,170.0,6.0,35.0,1.5,5.0,2.0,320.0,0.0,pita bread
+pork chop,4oz grilled,Protein/Meat,220.0,30.0,0.0,10.0,0.0,0.0,70.0,85.0,pork chop
+mashed potatoes,1 cup,Vegetable,230.0,4.0,35.0,8.0,3.0,2.0,350.0,15.0,mashed potatoes
+corn,1 cup,Vegetable,132.0,4.7,30.0,1.8,3.6,8.9,2.0,0.0,corn
+soda,1 can Coke,Beverage,140.0,0.0,39.0,0.0,0.0,39.0,45.0,0.0,soda
+pretzels,1 oz,Grain/Processed,110.0,3.0,23.0,1.0,1.0,1.0,450.0,0.0,pretzels
+cheddar cheese,1 oz,Dairy,115.0,7.0,1.0,9.5,0.0,0.5,180.0,30.0,cheddar cheese
+caesar salad,with chicken,Meal/Protein,470.0,30.0,15.0,30.0,3.0,3.0,890.0,75.0,caesar salad
+orange juice,1 cup,Beverage,112.0,1.7,25.8,0.5,0.7,20.8,2.0,0.0,orange juice
+bacon,2 slices cooked,Protein/Meat,86.0,6.0,0.2,6.8,0.0,0.1,330.0,18.0,bacon
+waffles,2 homemade,Grain,220.0,6.0,28.0,9.0,1.5,3.0,420.0,45.0,waffles
+pear,1 serving,Fruit,101.0,0.6,27.0,0.2,5.5,16.0,2.0,0.0,pear
+chicken breast,4oz roasted,Protein/Meat,185.0,35.0,0.0,4.0,0.0,0.0,80.0,95.0,chicken breast;grilled chicken;roasted chicken;chicken
+mixed nuts,1/4 cup,Nut,200.0,6.0,8.0,18.0,3.0,2.0,1.0,0.0,mixed nuts
+tilapia,4oz baked,Protein/Fish,110.0,22.0,0.0,2.5,0.0,0.0,50.0,50.0,tilapia;fish
+asparagus,1 cup steamed,Vegetable,40.0,4.3,7.4,0.4,3.6,3.5,4.0,0.0,asparagus
+sweet potato,1 medium baked,Vegetable,103.0,2.3,23.6,0.2,3.8,7.4,41.0,0.0,sweet potato;sweet potatoes
+popcorn,3 cups air-popped,Grain,93.0,3.0,18.6,1.1,3.6,0.1,2.0,0.0,popcorn
+raisins,1/4 cup,Fruit,130.0,1.3,34.0,0.2,1.6,25.0,5.0,0.0,raisins
+macaroni & cheese,1 cup,Meal/Pasta,350.0,10.0,40.0,17.0,2.0,5.0,750.0,40.0,macaroni & cheese
+tomato soup,1 can,Meal/Vegetable,170.0,4.0,25.0,6.0,4.0,15.0,900.0,10.0,tomato soup
+grilled cheese sandwich,1 serving,Meal/Processed,390.0,15.0,32.0,22.0,3.0,4.0,800.0,60.0,grilled cheese sandwich
+beef tacos,2 hard shell,Meal/Meat,380.0,18.0,28.0,22.0,5.0,3.0,600.0,50.0,beef tacos
+refried beans,1/2 cup,Legume,115.0,7.0,19.0,1.0,6.0,1.0,480.0,0.0,refried beans
+guacamole,1/4 cup,Vegetable/Condiment,90.0,1.0,4.0,8.0,3.0,0.5,120.0,0.0,guacamole
+watermelon,1 cup diced,Fruit,46.0,0.9,11.5,0.2,0.6,9.4,2.0,0.0,watermelon
+english muffin,whole wheat,Grain,134.0,6.0,26.0,1.0,4.4,1.0,210.0,0.0,english muffin
+peanut butter & jelly sandwich,1 serving,Meal/Processed,390.0,12.0,50.0,17.0,5.0,20.0,450.0,0.0,peanut butter & jelly sandwich
+clam chowder,1 cup,Meal/Seafood,200.0,10.0,18.0,9.0,1.0,2.0,870.0,30.0,clam chowder
+iced tea,Sweetened 16oz,Beverage,180.0,0.0,46.0,0.0,0.0,46.0,15.0,0.0,iced tea
+lasagna,1 serving meat,Meal/Pasta,350.0,20.0,30.0,17.0,4.0,7.0,850.0,55.0,lasagna
+garlic bread,1 slice,Grain,150.0,4.0,18.0,7.0,1.0,1.0,310.0,0.0,garlic bread
+chocolate milk,1 cup,Beverage/Dairy,200.0,8.0,26.0,8.0,1.0,24.0,160.0,30.0,chocolate milk
+white bread,1 slice,Grain,70.0,2.0,13.0,1.0,0.6,1.2,140.0,0.0,white bread;bread
+jelly,1 tbsp grape,Condiment,50.0,0.0,13.0,0.0,0.1,12.0,5.0,0.0,jelly
+veggie burger,1 patty,Protein/Vegetarian,120.0,11.0,10.0,4.0,5.0,1.0,350.0,0.0,veggie burger
+bun,hamburger,Grain,140.0,4.0,26.0,2.0,1.0,4.0,260.0,0.0,bun
+ketchup,1 tbsp,Condiment,20.0,0.2,5.0,0.1,0.2,4.0,160.0,0.0,ketchup
+muffin,Blueberry 1 large,Grain/Dessert,380.0,5.0,55.0,16.0,2.0,30.0,350.0,50.0,muffin
+coffee with cream/sugar,with cream/sugar,Beverage,50.0,0.5,5.0,3.0,0.0,4.5,10.0,10.0,coffee with cream/sugar
+potato chips,1 oz,Snack/Processed,160.0,2.0,15.0,10.0,1.0,0.5,170.0,0.0,potato chips
+tzatziki sauce,2 tbsp,Condiment/Dairy,30.0,1.5,2.0,2.0,0.0,0.0,0.0,0.0,tzatziki sauce
+chapati,1 serving (~40 g),Indian/other,118.8,4.4,18.4,3.0,4.0,0.0,0.0,0.0,chapati;roti;phulka;indian bread;flatbread
+dosa,1 serving (~80 g),Indian/other,134.4,3.1,23.2,3.0,1.2,0.0,0.0,0.0,dosa;plain dosa
+idli,1 serving (~40 g),Indian/other,52.0,1.6,10.4,0.2,0.4,0.0,0.0,0.0,idli;idly
+chicken curry,1 serving (~150 g),Indian/other,225.0,18.0,7.5,13.5,1.5,0.0,0.0,0.0,chicken curry;curry;chicken gravy
+fish curry,1 serving (~120 g),Indian/other,168.0,19.2,3.6,8.4,0.6,0.0,0.0,0.0,fish curry;fish
+dal,1 serving (~150 g),Indian/other,174.0,13.5,30.0,0.6,11.9,0.0,0.0,0.0,dal;lentil curry;lentils;lentil soup
+sambar,1 serving (~150 g),Indian/other,90.0,4.5,13.5,2.2,3.8,0.0,0.0,0.0,sambar
+mixed vegetable curry,1 serving (~120 g),Indian/other,96.0,3.0,10.8,4.8,3.6,0.0,0.0,0.0,vegetable curry;mixed vegetables;sabzi
+biryani,1 serving (~200 g),Indian/other,340.0,14.0,48.0,10.0,2.0,0.0,0.0,0.0,biryani;chicken biryani;rice biryani
+fried rice,1 serving (~180 g),Indian/other,293.4,7.2,45.0,9.9,1.8,0.0,0.0,0.0,fried rice
+upma,1 serving (~150 g),Indian/other,165.0,3.9,25.5,5.2,2.2,0.0,0.0,0.0,upma
+poori,1 serving (~30 g),Indian/other,105.0,2.1,13.5,4.8,0.6,0.0,0.0,0.0,poori;puri
+samosa,1 serving (~50 g),Indian/other,131.0,2.4,14.0,7.5,1.0,0.0,0.0,0.0,samosa
+cake,1 serving (~80 g),Indian/other,296.8,4.0,42.4,12.8,1.2,0.0,0.0,0.0,cake;chocolate cake
+avocado,1/2 fruit,Added (approx.),120.0,1.5,6.4,11.0,5.0,0.0,0.0,0.0,avocado;avocados
+chickpeas,1/2 cup,Added (approx.),135.0,7.3,22.5,2.1,6.2,0.0,0.0,0.0,chickpeas;chickpea;garbanzo
+cucumber,1 cup sliced,Added (approx.),16.0,0.7,3.8,0.2,0.5,0.0,0.0,0.0,cucumber;cucumbers
+cherry tomatoes,1 cup,Added (approx.),27.0,1.3,5.8,0.3,1.8,0.0,0.0,0.0,cherry tomatoes;tomato;tomatoes
+red cabbage,1 cup shredded,Added (approx.),28.0,1.3,6.6,0.1,1.9,0.0,0.0,0.0,red cabbage;purple cabbage;cabbage
+kale,1 cup,Added (approx.),33.0,2.9,6.0,0.6,1.3,0.0,0.0,0.0,kale;spinach
+beetroot,1 cup,Added (approx.),58.0,2.2,13.0,0.2,3.8,0.0,0.0,0.0,beetroot;beet;beets
+radish,1/2 cup,Added (approx.),12.0,0.4,2.0,0.1,0.9,0.0,0.0,0.0,radish;radishes
+green peas,1/2 cup,Added (approx.),62.0,4.1,11.4,0.2,4.4,0.0,0.0,0.0,green peas;peas
+cauliflower,1 cup,Added (approx.),27.0,2.0,5.3,0.3,2.1,0.0,0.0,0.0,cauliflower
+zucchini,1 cup,Added (approx.),19.0,1.4,3.5,0.4,1.2,0.0,0.0,0.0,zucchini;courgette
+olives,5 olives,Added (approx.),25.0,0.2,1.3,2.3,0.7,0.0,0.0,0.0,olives;olive
+feta cheese,1 oz,Added (approx.),75.0,4.0,1.2,6.0,0.0,0.0,0.0,0.0,feta;feta cheese
+lettuce,1 cup,Added (approx.),8.0,0.6,1.5,0.1,0.7,0.0,0.0,0.0,lettuce;mixed greens;greens;arugula;salad leaves
+pomegranate seeds,1/4 cup,Added (approx.),36.0,0.7,8.0,0.5,1.8,0.0,0.0,0.0,pomegranate;pomegranate seeds
+peanuts,1 oz,Added (approx.),161.0,7.0,4.6,14.0,2.4,0.0,0.0,0.0,peanuts;peanut
+gnocchi,1 cup,Added (approx.),250.0,6.0,50.0,2.0,2.0,0.0,0.0,0.0,gnocchi
+raspberries,1/2 cup,Added (approx.),32.0,0.7,7.4,0.4,4.0,0.0,0.0,0.0,raspberries;raspberry
+papad,1 piece,Added (approx.),40.0,2.5,5.5,1.0,0.7,0.0,0.0,0.0,papad;papadum;appalam
